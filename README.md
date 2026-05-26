@@ -20,3 +20,6 @@ Atualmente estudando:
 ## Contato 
 - LinkedIn
 - Portfólio
+
+## Deploy
+https://bryanfernandes.github.io/
